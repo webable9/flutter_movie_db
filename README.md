@@ -8,6 +8,7 @@ https://www.themoviedb.org/?language=ko   TMDB API(영화 또는 TV시리즈 정
 
 https://www.postman.com/ (서버 API 테스트)
 
+![CreatePlan](./lib/screenshot/main.png)
 
 ## Getting Started
 
