@@ -1,6 +1,13 @@
 # flutter_movie_db
 
-A new Flutter project.
+[Flutter / 플러터 ] 단순 숫자 카운트 provider 는 지겹다~!]
+
+https://www.youtube.com/watch?v=Mf9eDfi-VhU
+
+https://www.themoviedb.org/?language=ko   TMDB API(영화 또는 TV시리즈 정보를 검색할 수 있습니다.)
+
+https://www.postman.com/ (서버 API 테스트)
+
 
 ## Getting Started
 
