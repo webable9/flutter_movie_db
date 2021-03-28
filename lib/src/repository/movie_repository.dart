@@ -8,6 +8,7 @@ class MovieRepository {
 
   Future<List<Movie>> loadMovies() async {
     var uri = Uri.https("api.themoviedb.org", "/3/movie/popular", queryParam);
+    print(uri);
     var response = await http.get(uri);
     if (response.body != null) {
       Map<String, dynamic> body = json.decode(response.body);
